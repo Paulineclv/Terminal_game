@@ -1,4 +1,4 @@
-# 🧙‍♀️ Terminal Magic Dungeon
+# 🧙‍♀️ Magic Dungeon
 
 A simple text-based adventure game built with Python.  
 Fight monsters, heal yourself, or try to escape — but beware... only the brave survive!
